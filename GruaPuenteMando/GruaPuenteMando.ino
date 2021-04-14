@@ -63,14 +63,14 @@ int estado;
 int contador;
 
 //  MANDO INALAMBRICO
-const bool SW = 53;
+const bool SW = 28;
 bool SWITCH = 0;
 bool datos[12];
 #include <SPI.h>
 #include <nRF24L01.h>
 #include <RF24.h>
-#define CE_PIN 9
-#define CSN_PIN 10
+#define CE_PIN 44
+#define CSN_PIN 45
 byte direccion[5] ={'M','a','n','d','o'};
 RF24 mando(CE_PIN, CSN_PIN);
 
@@ -112,11 +112,14 @@ void setup() {
   lcd.backlight();
   lcd.setCursor(1, 0);
   estado = 0;
+  
 // MANDO INALAMBRICO
   pinMode(SW, INPUT_PULLUP);
   mando.begin();
   mando.openReadingPipe(1, direccion);
   mando.startListening();
+  Serial.begin(9600);
+  Serial.println("HEYYY");
 }
 
 void loop() {
