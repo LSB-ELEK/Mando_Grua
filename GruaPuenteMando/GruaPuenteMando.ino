@@ -1198,6 +1198,7 @@ void loop() {
       if (cp6 <15) {
         digitalWrite (VZ3, HIGH);
         cp6 ++;
+        
       }
       if (cp2 >= 15) {
         digitalWrite (VY3, LOW);
