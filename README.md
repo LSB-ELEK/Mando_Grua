@@ -22,8 +22,8 @@ PowerBank | x1
 ### Esquema eléctrico
 
 <img src="https://github.com/LSB-ELEK/Mando_Grua/blob/main/img/NANO.png?raw=true" width="200" height="200" />
-<img src="https://github.com/LSB-ELEK/Mando_Grua/blob/main/img/NRF24L01.png?raw=true" width="200" height="200" />
-<img src="https://github.com/LSB-ELEK/Mando_Grua/blob/main/img/buttons.png?raw=true" width="200" height="200" />
+<img src="https://github.com/LSB-ELEK/Mando_Grua/blob/main/img/NRF24L01.png?raw=true" width="200" height="300" />
+<img src="https://github.com/LSB-ELEK/Mando_Grua/blob/main/img/buttons.png?raw=true" width="200" height="400" />
 
 
 ### Programa de Arduino
