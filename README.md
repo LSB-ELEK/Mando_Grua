@@ -1,7 +1,7 @@
 # Mando_Grua
 Conversión de mando industrial en mando inalámbrico mediante Arduino y el chip de comunicación NFR24l01.
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.4HBfNvu16CmaQU3-s2PuDAHaHa%26pid%3DApi&f=1" width="200" height="200" />
+<img src="" width="200" height="200" />
 
 ## Funcionamiento
 
