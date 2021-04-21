@@ -19,7 +19,7 @@ Chip de comunicación NFR24l01 | x2
 PowerBank | x1
 
 
-### Esquemas eléctricos
+### [Esquemas electricos](https://github.com/LSB-ELEK/Mando_Grua/tree/main/Schematichs)
 
 Conexionado del arduino nano
 
@@ -32,4 +32,5 @@ Conexionado del emisor nfr
 Conexionado de los pulsadores del mando
 
 <img src="https://github.com/LSB-ELEK/Mando_Grua/blob/main/img/buttons.png?raw=true" width="200" height="400" />
+
 
