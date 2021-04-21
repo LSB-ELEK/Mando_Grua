@@ -22,11 +22,17 @@ PowerBank | x1
 ### Esquema eléctrico
 
 Conexionado del arduino nano
+
 <img src="https://github.com/LSB-ELEK/Mando_Grua/blob/main/img/NANO.png?raw=true" width="200" height="200" />
+
 Conexionado del emisor nfr
+
 <img src="https://github.com/LSB-ELEK/Mando_Grua/blob/main/img/NRF24L01.png?raw=true" width="250" height="300" />
+
 Conexionado de los pulsadores del mando
+
 <img src="https://github.com/LSB-ELEK/Mando_Grua/blob/main/img/buttons.png?raw=true" width="200" height="400" />
+
 
 
 ### Programa de Arduino
