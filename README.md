@@ -1,8 +1,6 @@
 # Mando_Grua
 Conversión de mando industrial en mando inalámbrico mediante Arduino y el chip de comunicación NFR24l01.
 
-<img src="" width="200" height="200" />
-
 ## Funcionamiento
 
 Para hacer funcionar el mando necesitamos 2 chips NFR, 1 el cual funcionará como emisor y el otro que funcionará como receptor. Para hacer funcionar este chip con Arduino necesitamos 3 librerias, las cuales son la libreria para la comunicacion SPI, la libreria nRF24L01.h y por ultimo RF24.h. 
