@@ -3,8 +3,8 @@
 #include <RF24.h>
  
 //Declaremos los pines CE y el CSN
-#define CE_PIN 9
-#define CSN_PIN 10
+#define CE_PIN 44
+#define CSN_PIN 45
  
 //Variable con la dirección del canal que se va a leer
 byte direccion[5] ={'M','a','n','d','o'}; 
