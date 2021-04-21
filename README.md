@@ -25,7 +25,7 @@ Conexionado del arduino nano
 
 Conexionado del emisor nfr
 
-<img src="https://github.com/LSB-ELEK/Mando_Grua/blob/main/img/NRF24L01.png?raw=true" width="250" height="300" />
+<img src="https://github.com/LSB-ELEK/Mando_Grua/blob/main/img/NRF24L01.png?raw=true" width="280" height="300" />
 
 Conexionado de los pulsadores del mando
 
